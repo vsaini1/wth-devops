@@ -9,7 +9,7 @@ on:
     paths: [ "/Application/**" ]
   pull_request:
     branches: [ "main" ]
-    paths: [ "/Application/**" ]
+    paths: [ "Application/**" ]
     
 
 jobs:
